@@ -1,4 +1,4 @@
-package main.java.org.milo.test;
+package main.java.org.damenimilo.test;
 
 /**
  * @author Damien GAILLARD
